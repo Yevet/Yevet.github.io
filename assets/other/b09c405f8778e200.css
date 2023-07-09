@@ -2117,7 +2117,7 @@
 }
 
 .Projects_container__t9NpO .Projects_project_card__GnerK .Projects_flip_card__ehKZA .Projects_front_card__IMo7j .Projects_content_wrapper__IOTPF .Projects_icons_wrapper__CMinF {
-    display: flex;
+    display: none;
     grid-gap: 5px;
     gap: 5px;
     flex-wrap: wrap
